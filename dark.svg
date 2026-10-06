@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Ahmed Souilmi — AI Engineer and Data Science & Artificial Intelligence engineering student">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#030712"/>
+      <stop offset=".55" stop-color="#07111F"/>
+      <stop offset="1" stop-color="#0B1220"/>
+      <animate attributeName="x1" values="0;0.15;0" dur="12s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".7" cy=".2" r=".8">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity=".14"/>
+      <stop offset=".45" stop-color="#7C3AED" stop-opacity=".07"/>
+      <stop offset="1" stop-color="#030712" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop stop-color="#22D3EE" stop-opacity=".15"/>
+      <stop offset=".5" stop-color="#7C3AED" stop-opacity=".75"/>
+      <stop offset="1" stop-color="#10B981" stop-opacity=".15"/>
+    </linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="10"/></filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#94A3B8" stroke-opacity=".035"/>
+    </pattern>
+    <clipPath id="portrait"><rect x="55" y="108" width="390" height="350" rx="18"/></clipPath>
+  </defs>
+
+  <rect x="8" y="8" width="1164" height="594" rx="24" fill="url(#bg)" stroke="#334155" stroke-opacity=".7"/>
+  <rect x="8" y="8" width="1164" height="594" rx="24" fill="url(#glow)"/>
+  <rect x="8" y="8" width="1164" height="594" rx="24" fill="url(#grid)"/>
+
+  <rect x="8" y="8" width="1164" height="46" rx="24" fill="#0F172A" fill-opacity=".88"/>
+  <path d="M8 54H1172" stroke="#334155"/>
+  <circle cx="34" cy="31" r="6" fill="#EF4444"/>
+  <circle cx="54" cy="31" r="6" fill="#F59E0B"/>
+  <circle cx="74" cy="31" r="6" fill="#10B981"/>
+  <text x="94" y="36" fill="#94A3B8" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13">ahmed@profile ~ / github</text>
+  <text x="1080" y="36" text-anchor="end" fill="#22D3EE" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12">● ONLINE</text>
+
+  <!-- left visual panel -->
+  <rect x="38" y="78" width="430" height="500" rx="20" fill="#0F172A" fill-opacity=".42" stroke="#334155" stroke-opacity=".7"/>
+  <text x="62" y="106" fill="#22D3EE" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" letter-spacing="2">VISUAL.MAP</text>
+
+  <!-- stylized terminal portrait made from characters -->
+  <g clip-path="url(#portrait)" fill="#67E8F9" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" opacity=".9">
+    <text x="73" y="138">       .........:::::::::.........       </text>
+    <text x="73" y="148">     ...:::+++++*********+++++:::...     </text>
+    <text x="73" y="158">   ..::++***###%%%%%%%%%###***++::..   </text>
+    <text x="73" y="168">  .::+**##%%%%%%%%%%%%%%%%%%%##**+::.  </text>
+    <text x="73" y="178"> .:+*##%%%%%%%@@@@@@@%%%%%%%##*+:. </text>
+    <text x="73" y="188"> :+*#%%%%%@@@@@@%%%%%@@@@@@%%%%%#*+: </text>
+    <text x="73" y="198"> +*#%%%%@@@@@%%**++++**%%@@@@@%%%%#*+ </text>
+    <text x="73" y="208"> *#%%%@@@@%%*+::::::::+*%%@@@@%%%#* </text>
+    <text x="73" y="218"> ##%%@@@%%*+::..::::..::+*%%@@@%%## </text>
+    <text x="73" y="228"> ##%%@@%%+::.::++++++::.::+%%@@%%## </text>
+    <text x="73" y="238"> *#%%@@%+:::+*######*+:::+%@@%%#* </text>
+    <text x="73" y="248"> +*#%@%+::+*##%%%%%%##*+::+%@%#*+ </text>
+    <text x="73" y="258">  +*#%%+:+*#%%%%%%%%%%#*+:+%%#*+  </text>
+    <text x="73" y="268">  :+*#*+*#%%%######%%%#*+*#*+:  </text>
+    <text x="73" y="278">   :+**##%%#*++++++*#%%##**+:   </text>
+    <text x="73" y="288">    :+*#%%%*::::::::*%%%#*+:    </text>
+    <text x="73" y="298">      +*#%%#::::::::#%%#*+      </text>
+    <text x="73" y="308">      +*#%%%*++++++*%%%#*+      </text>
+    <text x="73" y="318">    .+*#%%%%%######%%%%%#*+.    </text>
+    <text x="73" y="328">  .:+*#%%%%%%######%%%%%%#*+:.  </text>
+    <text x="73" y="338">.:+*#%%%%%%%%%%%%%%%%%%%%%%#*+:.</text>
+    <text x="73" y="348">+*#%%%%%%%%%%%%%%%%%%%%%%%%%%#*+</text>
+    <text x="73" y="358">*#%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*</text>
+    <text x="73" y="368">#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#</text>
+    <text x="73" y="378">#%%%%%%%%%%##%%%%%%%%##%%%%%%%%#</text>
+    <text x="73" y="388">*%%%%%%%%%#*+%%%%%%%%+*#%%%%%%%%*</text>
+    <text x="73" y="398">+%%%%%%%%#++#%%%%%%%%#++#%%%%%%%%+</text>
+    <text x="73" y="408">:+%%%%%%#*#%%%%%%%%%%%%#*#%%%%%%+: </text>
+    <text x="73" y="418">  *%%%%%#%%%%%%%%%%%%%%#%%%%%%*  </text>
+    <text x="73" y="428">  +%%%%%%#%%%%%%%%%%%%#%%%%%%+  </text>
+    <text x="73" y="438">   +%%%%%%%##%%%%%%##%%%%%%%+   </text>
+    <text x="73" y="448">    +%%%%%%%%%%%%%%%%%%%%%%+    </text>
+  </g>
+
+  <line x1="60" y1="470" x2="446" y2="470" stroke="url(#line)"/>
+  <text x="62" y="498" fill="#F8FAFC" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="18" font-weight="700">AI · DATA · ENGINEERING</text>
+  <text x="62" y="522" fill="#94A3B8" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12">Building intelligent systems with ML, NLP, CV</text>
+  <text x="62" y="542" fill="#94A3B8" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12">&amp; generative AI.</text>
+  <text x="62" y="564" fill="#22D3EE" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12">~/profile $ build --ship</text>
+
+  <!-- right system panel -->
+  <rect x="492" y="78" width="650" height="500" rx="20" fill="#0F172A" fill-opacity=".48" stroke="#334155" stroke-opacity=".7"/>
+  <text x="522" y="112" fill="#F8FAFC" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="18" font-weight="700">SYSTEM.INFO</text>
+  <text x="1112" y="112" text-anchor="end" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11">PROFILE.SYS</text>
+  <path d="M522 128H1112" stroke="#334155"/>
+
+  <text x="522" y="158" fill="#22D3EE" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11">user@profile:~$ ./profile.sh</text>
+
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace">
+    <text x="522" y="192" fill="#64748B" font-size="11">NAME</text>
+    <text x="660" y="192" fill="#F8FAFC" font-size="15" font-weight="700">Ahmed Souilmi</text>
+
+    <text x="522" y="224" fill="#64748B" font-size="11">ROLE</text>
+    <text x="660" y="224" fill="#22D3EE" font-size="14">AI Engineer · Data &amp; AI</text>
+
+    <text x="522" y="256" fill="#64748B" font-size="11">EDUCATION</text>
+    <text x="660" y="256" fill="#F8FAFC" font-size="13">Computer Science Engineering</text>
+    <text x="660" y="274" fill="#94A3B8" font-size="12">Data Science &amp; Artificial Intelligence</text>
+
+    <text x="522" y="306" fill="#64748B" font-size="11">FOCUS</text>
+    <text x="660" y="306" fill="#F8FAFC" font-size="13">ML · NLP · Computer Vision</text>
+    <text x="660" y="324" fill="#F8FAFC" font-size="13">Generative AI · RAG · AI Agents</text>
+
+    <text x="522" y="356" fill="#64748B" font-size="11">STACK</text>
+    <text x="660" y="356" fill="#F8FAFC" font-size="13">Python · PyTorch · TensorFlow</text>
+    <text x="660" y="374" fill="#F8FAFC" font-size="13">scikit-learn · SQL · FastAPI</text>
+    <text x="660" y="392" fill="#F8FAFC" font-size="13">Streamlit · React · AWS</text>
+
+    <text x="522" y="424" fill="#64748B" font-size="11">BUILDING</text>
+    <text x="660" y="424" fill="#10B981" font-size="13">Intelligent, production-oriented AI</text>
+    <text x="660" y="442" fill="#94A3B8" font-size="12">systems and data-driven applications</text>
+  </g>
+
+  <rect x="522" y="468" width="590" height="78" rx="12" fill="#030712" fill-opacity=".42" stroke="#334155" stroke-opacity=".65"/>
+  <text x="542" y="494" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" letter-spacing="1.5">SELECTED SIGNALS</text>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11">
+    <text x="542" y="520" fill="#22D3EE">● AI / ML</text>
+    <text x="670" y="520" fill="#A78BFA">● LLMs / RAG</text>
+    <text x="812" y="520" fill="#10B981">● MLOps / Cloud</text>
+    <text x="970" y="520" fill="#F8FAFC">● Open to build</text>
+  </g>
+
+  <path d="M492 574H1142" stroke="url(#line)" stroke-opacity=".7"/>
+  <rect x="515" y="569" width="170" height="3" rx="2" fill="#22D3EE">
+    <animate attributeName="x" values="515;950;515" dur="7s" repeatCount="indefinite"/>
+  </rect>
+</svg>
